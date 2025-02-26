@@ -1,0 +1,2 @@
+Buongiorno, oggi sono andato a fare tre scansioni di rete sul target Metaspoitable con indirizzo IP 192.168.40.101. La prima scansione scansionava tutte le porti, la seconda solo le porte comuni e la terza solo queste reti: ( 21, 22, 23, 25, 80, 110, 139, 443, 445, 3389).
+Con questi report ho visto quali sono le vulnerabilità soprattutto quelle critiche e i consigli che suggerisce lo scanner. 
